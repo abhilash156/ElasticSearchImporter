@@ -1,0 +1,80 @@
+[
+  {
+    "account_number": 0,
+    "balance": 572273.42,
+    "firstname": "Tanya",
+    "lastname": "Richardson",
+    "age": 51,
+    "gender": "female",
+    "address": "286 Tompkins Avenue, Taycheedah, Alaska, 895",
+    "employer": "RECRISYS",
+    "email": "tanyarichardson@recrisys.com",
+    "city": "Trucksville",
+    "state": "New Hampshire"
+  },
+  {
+    "account_number": 1,
+    "balance": 973933.44,
+    "firstname": "Reilly",
+    "lastname": "Mays",
+    "age": 38,
+    "gender": "male",
+    "address": "687 Gallatin Place, Northchase, North Dakota, 4622",
+    "employer": "RECOGNIA",
+    "email": "reillymays@recognia.com",
+    "city": "Innsbrook",
+    "state": "Nevada"
+  },
+  {
+    "account_number": 2,
+    "balance": 337031.8,
+    "firstname": "Melton",
+    "lastname": "Hunt",
+    "age": 53,
+    "gender": "male",
+    "address": "426 Hegeman Avenue, Sunwest, Utah, 7629",
+    "employer": "UNI",
+    "email": "meltonhunt@uni.com",
+    "city": "Enlow",
+    "state": "Oregon"
+  },
+  {
+    "account_number": 3,
+    "balance": 962600.99,
+    "firstname": "Gilmore",
+    "lastname": "Sanford",
+    "age": 36,
+    "gender": "male",
+    "address": "473 Oceanic Avenue, Edgewater, American Samoa, 3563",
+    "employer": "FIREWAX",
+    "email": "gilmoresanford@firewax.com",
+    "city": "Sehili",
+    "state": "Minnesota"
+  },
+  {
+    "account_number": 4,
+    "balance": 111613.53,
+    "firstname": "Letha",
+    "lastname": "Albert",
+    "age": 56,
+    "gender": "female",
+    "address": "810 Celeste Court, Greer, Delaware, 8201",
+    "employer": "CUJO",
+    "email": "lethaalbert@cujo.com",
+    "city": "Islandia",
+    "state": "Maryland"
+  },
+  {
+    "account_number": 5,
+    "balance": 410417.9,
+    "firstname": "Tucker",
+    "lastname": "Hodges",
+    "age": 20,
+    "gender": "male",
+    "address": "484 Ross Street, Weedville, Missouri, 6632",
+    "employer": "MEDIOT",
+    "email": "tuckerhodges@mediot.com",
+    "city": "Unionville",
+    "state": "Kansas"
+  }
+]
